@@ -1,0 +1,20 @@
+go_nopaste
+==========
+
+Installation
+------------
+
+This package can be installed with the go get command:
+
+    go get github.com/hiroyukim/go_nopaste
+
+
+See Also
+-------
+
+https://github.com/tokuhirom/nopaste
+
+License
+-------
+
+MIT: http://mattn.mit-license.org/2012
